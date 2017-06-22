@@ -1,0 +1,42 @@
+/* styles are here ... created on June 2, 2017 */
+body {
+  background-color: #ccc;
+}
+header#header {
+  text-align: center;
+  height: 100px;
+  display: table;
+  width: 100%;
+  background-color: lightslategray;
+  margin-bottom: 40px;
+}
+header h1 {
+  vertical-align: middle;
+  display: table-cell;
+  color: white;
+}
+#photo {
+  text-align: center;
+  margin-bottom: 30px;
+  margin: o auto 30px;
+}
+#main-content {
+  margin-top: 30px;
+}
+.more {
+  width: 100px;
+  line-height: 37px;
+  text-align: center;
+  background-color: lightslategray;
+  border-radius: 5px;
+}
+.more a {
+  color: #fff;
+}
+#main-img {
+  text-align: center;
+}
+#main-img img {
+  padding: 2px;
+  border: 1px solid #ccc;
+}
